@@ -541,16 +541,16 @@ Groups.Troll:AddToggle('DeleteChairAura', { Text = 'Delete Chair Aura' })
 
 Groups.Credits = Tabs.UISettings:AddRightGroupbox('Credits')
 
-addRichText(Groups.Credits:AddLabel('<font color="#0bff7e">Aegians was Here</font> - script'))
+addRichText(Groups.Credits:AddLabel('<font color="#0bff7e">goose is an utter skid, stop taking my shit Better</font> - script'))
 addRichText(Groups.Credits:AddLabel('<font color="#3da5ff">wally & Inori</font> - ui library'))
 
 Groups.UISettings = Tabs.UISettings:AddRightGroupbox('UI Settings')
 Groups.UISettings:AddLabel('Changelogs:\n' .. metadata.message or 'no message found!', true)
 Groups.UISettings:AddDivider()
 Groups.UISettings:AddButton('Unload Script', function() pcall(shared._unload) end)
-Groups.UISettings:AddButton('Github Link', function()
+Groups.UISettings:AddButton('Copy Discord', function()
 	if pcall(setclipboard, "https://github.com/Aegians") then
-		UI:Notify('Successfully copied discord link to your clipboard!', 5)
+		UI:Notify('Successfully copied Github link to your clipboard!', 5)
 	end
 end)
 if game.PlaceId ~= 14136710162 and game.PlaceId ~= 12826178482 then
