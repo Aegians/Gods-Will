@@ -541,8 +541,8 @@ Groups.Troll:AddToggle('DeleteChairAura', { Text = 'Delete Chair Aura' })
 
 Groups.Credits = Tabs.UISettings:AddRightGroupbox('Credits')
 
-addRichText(Groups.Credits:AddLabel('<font color="#0bff7e">goose is an utter skid, stop taking my shit Better</font> - script'))
-addRichText(Groups.Credits:AddLabel('<font color="#3da5ff">wally & Inori</font> - ui library'))
+addRichText(Groups.Credits:AddLabel('<font color="#0bff7e">spoky is black, AegiansW</font> - script'))
+addRichText(Groups.Credits:AddLabel('<font color="#3da5ff">wally & inuira</font> - ui library'))
 
 Groups.UISettings = Tabs.UISettings:AddRightGroupbox('UI Settings')
 Groups.UISettings:AddLabel('Changelogs:\n' .. metadata.message or 'no message found!', true)
