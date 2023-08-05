@@ -541,14 +541,14 @@ Groups.Troll:AddToggle('DeleteChairAura', { Text = 'Delete Chair Aura' })
 
 Groups.Credits = Tabs.UISettings:AddRightGroupbox('Credits')
 
-addRichText(Groups.Credits:AddLabel('<font color="#0bff7e">spoky is black, AegiansW</font> - script'))
+addRichText(Groups.Credits:AddLabel('<font color="#0bff7e">shiba getting clout, AegiansW</font> - script'))
 addRichText(Groups.Credits:AddLabel('<font color="#3da5ff">wally & inuira</font> - ui library'))
 
 Groups.UISettings = Tabs.UISettings:AddRightGroupbox('UI Settings')
 Groups.UISettings:AddLabel('Changelogs:\n' .. metadata.message or 'no message found!', true)
 Groups.UISettings:AddDivider()
 Groups.UISettings:AddButton('Unload Script', function() pcall(shared._unload) end)
-Groups.UISettings:AddButton('Copy Discord', function()
+Groups.UISettings:AddButton('Copy Github', function()
 	if pcall(setclipboard, "https://github.com/Aegians") then
 		UI:Notify('Successfully copied Github link to your clipboard!', 5)
 	end
