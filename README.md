@@ -11,4 +11,6 @@ https://www.roblox.com/games/12826178482/GODS-WILL
   ```
   obfuscated everything; preventing developers of the game from trying to patch my shit hehe >:3
   ```
-  
+  ```
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/Aegians/Gods-Will/main/main.lua'))()
+  ```
