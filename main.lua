@@ -9,7 +9,7 @@ local executor = identifyexecutor and identifyexecutor() or 'Unknown'
 local UI = loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/LinoriaLib/main/Library.lua'))()
 local themeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/LinoriaLib/main/addons/ThemeManager.lua'))()
 
-local metadata = loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/gods-will/main/metadata.lua'))()
+local metadata = loadstring(game:HttpGet('https://raw.githubusercontent.com/Aegians/Gods-Will/main/metadata.lua'))()
 local httpService = game:GetService('HttpService')
 
 local runService = game:GetService('RunService')
