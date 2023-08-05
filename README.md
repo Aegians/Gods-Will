@@ -6,3 +6,9 @@ https://www.roblox.com/games/12826178482/GODS-WILL
 - V1.07 updated for new roblox collisions errors.
 - added a new hitbox expander for the dodgeball game thingy, idfk whatever people wanna call it.
 - i'm an idiot so i can't fix the looping in my steal chairs so it's not gonna be added to the ui.
+
+- v1.08
+  ```
+  obfuscated everything; preventing developers of the game from trying to patch my shit hehe >:3
+  ```
+  
