@@ -20,3 +20,6 @@ https://www.roblox.com/games/12826178482/GODS-WILL
 # v1.1
 - added in hardmode game mode
 - Added disappear from lava game (sort of buggy if it doesn't work please disable the check in game located in misc) 
+
+# pov u get the creator angwy
+[![Watch the video](https://streamable.com/kf8cy6)](https://streamable.com/kf8cy6)
