@@ -1,5 +1,5 @@
 return {
-	version = '1.09',
-	updated = '8/4/2023',
-	message = 'exploit warning'
+	version = '1.1',
+	updated = '8/6/2023',
+	message = 'added lava game for hardcore'
 }
