@@ -22,4 +22,4 @@ https://www.roblox.com/games/12826178482/GODS-WILL
 - Added disappear from lava game (sort of buggy if it doesn't work please disable the check in game located in misc) 
 
 # pov u get the creator angwy
-[![Watch the video](https://streamable.com/kf8cy6)](https://streamable.com/kf8cy6)
+![gnq88bam](https://github.com/Aegians/Gods-Will/assets/69432633/9a2125ae-d98b-48ac-b84b-3325633f2b58)
