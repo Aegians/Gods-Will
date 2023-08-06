@@ -7,10 +7,16 @@ https://www.roblox.com/games/12826178482/GODS-WILL
 - added a new hitbox expander for the dodgeball game thingy, idfk whatever people wanna call it.
 - i'm an idiot so i can't fix the looping in my steal chairs so it's not gonna be added to the ui.
 
-- v1.08
+# v1.08
   ```
   obfuscated everything; preventing developers of the game from trying to patch my shit hehe >:3
   ```
   ```
   loadstring(game:HttpGet('https://raw.githubusercontent.com/Aegians/Gods-Will/main/main.lua'))()
   ```
+# v1.09
+- optimization fixes
+
+# v1.1
+- added in hardmode game mode
+- Added disappear from lava game (sort of buggy if it doesn't work please disable the check in game located in misc) 
