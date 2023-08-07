@@ -1,9 +1,5 @@
 # Gods-Will
-Gods will UI;Credits
-- Shiba
-- spoky (short man)
-- qkwg (my only european friend)
-https://www.roblox.com/games/12826178482/GODS-WILL
+Gods will script made by Goose and currently updated by christian
 
 
 
