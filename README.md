@@ -1,32 +1,34 @@
 # Gods-Will
-Gods will script made by Goose and currently updated by christian
 
+***CURRENTLY HALTING ALL PROGRESS TO RELEASE SOMETHING MORE GROUND BREAKING!***
 
-
-# CURRENTLY HALTING ALL PROGRESS TO RELEASE SOMETHING MORE GROUND BREAKING!
-- i was tryna be nice, these people don't let a black man live anymore!
-
+**Script** 
+  ```
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/Aegians/Gods-Will/main/main.lua'))()
+  ```
 
   
 
 ## Updates
-- V1.07 updated for new roblox collisions errors.
-- added a new hitbox expander for the dodgeball game thingy, idfk whatever people wanna call it.
-- i'm an idiot so i can't fix the looping in my steal chairs so it's not gonna be added to the ui.
+> V1.07; updated for new roblox collisions errors.
 
-# v1.08
-  ```
-  obfuscated everything; preventing developers of the game from trying to patch my shit hehe >:3
-  ```
-  ```
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/Aegians/Gods-Will/main/main.lua'))()
-  ```
-# v1.09
-- optimization fixes
+> v1.08; obfuscated everything to prevent developers from patching the source
 
-# v1.1
-- added in hardmode game mode
-- Added disappear from lava game (sort of buggy if it doesn't work please disable the check in game located in misc) 
 
-# pov u get the creator angwy
+> v1.09; optimization fixes, semi faster loading
+
+
+> v1.1; added in hardcore checks,
+
+
+
+> v1.1.2; added in lava game, (Recently having issues with it being detected, please disable the Misc check)
+
+
+----
+
+
+pov u get the mods angwy
 ![gnq88bam](https://github.com/Aegians/Gods-Will/assets/69432633/9a2125ae-d98b-48ac-b84b-3325633f2b58)
+<img width="626" alt="image" src="https://github.com/Aegians/Gods-Will/assets/69432633/495b0be1-70a7-4aa7-a65b-0e3698b5f830">
+
