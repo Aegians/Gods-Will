@@ -1,5 +1,5 @@
 # Gods-Will
-> ah yes it took a 17 yo idiot an hour to make a script that works for this game. remember that they have 16 moderators and nearly 6-7 developers.
+
 
 
 ***CURRENTLY HALTING ALL PROGRESS TO RELEASE SOMETHING MORE GROUND BREAKING!***
