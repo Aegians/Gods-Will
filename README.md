@@ -2,9 +2,17 @@
 Gods will UI;Credits
 - Shiba
 - spoky (short man)
-- qkwg (my only european friend) 
-## game link:
+- qkwg (my only european friend)
 https://www.roblox.com/games/12826178482/GODS-WILL
+
+
+
+# CURRENTLY HALTING ALL PROGRESS TO RELEASE SOMETHING MORE GROUND BREAKING!
+- i was tryna be nice, these people don't let a black man live anymore!
+
+
+  
+
 ## Updates
 - V1.07 updated for new roblox collisions errors.
 - added a new hitbox expander for the dodgeball game thingy, idfk whatever people wanna call it.
