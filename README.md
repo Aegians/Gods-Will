@@ -2,7 +2,7 @@
 
 
 
-***CURRENTLY HALTING ALL PROGRESS TO RELEASE SOMETHING MORE GROUND BREAKING!***
+**i'm heart broken guys they want me to add in an auto-push**
 
 **Script** 
   ```
@@ -28,6 +28,7 @@
 
 
 ----
+![Discord_dnbBVOG6dA](https://github.com/Aegians/Gods-Will/assets/69432633/bbe7556f-af8f-4406-ab6b-5e105e8733aa)
 
 
 pov u get the mods angwy
