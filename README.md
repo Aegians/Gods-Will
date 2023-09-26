@@ -5,7 +5,7 @@
 **i'm heart broken guys they want me to add in an auto-push**
 
 **Script** 
-  ```
+  ```lua
   loadstring(game:HttpGet('https://raw.githubusercontent.com/Aegians/Gods-Will/main/main.lua'))()
   ```
 
